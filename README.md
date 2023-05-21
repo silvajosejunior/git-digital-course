@@ -17,3 +17,5 @@ mais uma modificaçao no readme
 alteraçao feita com sucesso
 
 alteraçao com sucessogit 
+
+tudo certo
