@@ -26,3 +26,5 @@ testando mais uma vez
 
 git push e pull
 comando git pull
+
+comando git push e git pull
