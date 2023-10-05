@@ -8,19 +8,15 @@
 
 # mais uma alteraçao
 
-# maias mais mais mais
-
-ajajajjajajjajajjajajajjajajjajjajajjgit 
-
 mais uma modificaçao no readme
 
 alteraçao feita com sucesso
 
-alteraçao com sucessogit 
+alteraçao com sucesso no git 
 
-tudo certo
+tudo certo!
 
-agora entendi
+
 
 testando mais uma vez
 git
